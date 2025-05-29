@@ -1,8 +1,32 @@
 [
   {
-    "nombre": "Alcohol Metílico",
-    "almacenamiento": "Inflamable, almacenar en armario ventilado y alejado del calor.",
-    "etiquetado": "Pictogramas: GHS02 (Inflamable), GHS06 (Tóxico), GHS08 (Peligro para la salud)",
-    "residuos": "Recoger en recipiente cerrado para disolventes orgánicos, etiquetar y gestionar como residuo peligroso."
+    "nombre": "Ácido clorhídrico",
+    "almacenamiento": "Corrosivo, almacenar en lugar ventilado, en estante inferior y separado de bases.",
+    "etiquetado": "Pictogramas: GHS05 (Corrosivo), GHS07 (Irritante)",
+    "residuos": "Neutralizar con base débil antes de desechar, consultar normativa local de residuos peligrosos."
+  },
+  {
+    "nombre": "Etanol",
+    "almacenamiento": "Inflamable, almacenar en armario para inflamables, alejado de fuentes de calor.",
+    "etiquetado": "Pictogramas: GHS02 (Inflamable), GHS07 (Irritante)",
+    "residuos": "Recoger en recipiente para disolventes orgánicos, etiquetar adecuadamente."
+  },
+  {
+    "nombre": "Acetona",
+    "almacenamiento": "Inflamable, almacenar en lugar fresco y bien ventilado, en contenedor cerrado.",
+    "etiquetado": "Pictogramas: GHS02 (Inflamable), GHS07 (Irritante)",
+    "residuos": "Recolectar en recipiente especial para disolventes, manejar como residuo peligroso."
+  },
+  {
+    "nombre": "Sulfato de sodio",
+    "almacenamiento": "No peligroso, mantener seco y en recipiente cerrado.",
+    "etiquetado": "Pictograma: Ninguno requerido",
+    "residuos": "Puede desecharse como residuo no peligroso si no está contaminado."
+  },
+  {
+    "nombre": "Peróxido de hidrógeno (30%)",
+    "almacenamiento": "Oxidante, mantener alejado de materiales combustibles y luz directa.",
+    "etiquetado": "Pictogramas: GHS03 (Oxidante), GHS05 (Corrosivo)",
+    "residuos": "Diluir antes de verter al desagüe con abundante agua si está permitido localmente."
   }
 ]
